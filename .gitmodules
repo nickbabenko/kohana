@@ -25,3 +25,9 @@
 [submodule "modules/unittest"]
 	path = modules/unittest
 	url = http://github.com/kohana/unittest.git
+[submodule "modules/mangodb"]
+	path = modules/mangodb
+	url = https://github.com/Wouterrr/MangoDB.git
+[submodule "modules/a1"]
+	path = modules/a1
+	url = https://github.com/Wouterrr/A1.git
